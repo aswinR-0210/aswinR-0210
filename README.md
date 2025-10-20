@@ -3,7 +3,7 @@
 I'm **Aswin R**, a **Cybersecurity Enthusiast** with interests in **Networking** and **System Security**.  
 With a foundation in **IoT and embedded systems**, I’m currently focused on learning **ethical hacking**, **vulnerability assessment**, and **network defense** — combining both software and hardware perspectives of cybersecurity.
 
-<a href="https://linkedin.com/in/aswinr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aswin-r-bba86a236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:aswinr773@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
