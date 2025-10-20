@@ -69,4 +69,4 @@ With a foundation in **IoT and embedded systems**, I’m currently focused on le
 
 ---
 
-⭐ *"Learning by breaking, building, and securing."*
+⭐ Learning by breaking, building, and securing
