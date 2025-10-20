@@ -64,7 +64,7 @@ With a foundation in **IoT and embedded systems**, I’m currently focused on le
 | **Project** | **Description** |
 |--------------|-----------------|
 | **[ToolBot](https://github.com/aswinR-0210/Toolbot/)** | Line Follower Robot with Blynk-Controlled Drawers. |
-| **[SmartBin](https://github.com/aswinR-0210/SmartBIn)** | An IOT based waste management system |
+| **[SmartBin](https://github.com/aswinR-0210/SmartBIn)** | An IoT based waste management system |
 | **[Security Labs Practice](https://github.com/)** | Personal cybersecurity practice setup using Metasploitable, Kali Linux, and TryHackMe. |
 
 ---
