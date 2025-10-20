@@ -67,14 +67,4 @@ With a foundation in **IoT and embedded systems**, I’m currently focused on le
 
 ---
 
-<h2 id="Stats" align=''> GitHub Stats </h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AswinR&show_icons=true&theme=default&hide_border=true" alt="Aswin R's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AswinR&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ⭐ *"Learning by breaking, building, and securing."*
