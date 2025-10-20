@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Aswin R</h1>
+<h1 align="center"> Hi, I'm Aswin R</h1>
 <h3 align="center">Cybersecurity Enthusiast | Networking Learner</h3>
 
 ---
