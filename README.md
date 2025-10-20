@@ -49,10 +49,7 @@ With a foundation in **IoT and embedded systems**, I’m currently focused on le
 <h2 id="Certifications" align=''> Certifications & Learning </h2>
 
 <div>
-<img src="https://img.shields.io/badge/TryHackMe-Active_Learner-green?style=for-the-badge&color=000000" alt="TryHackMe" />
-<img src="https://img.shields.io/badge/Hack_The_Box-Learner-green?style=for-the-badge&color=000000" alt="Hack The Box" />
-<img src="https://img.shields.io/badge/Networking-Fundamentals-blue?style=for-the-badge&color=000000" alt="Networking Fundamentals" />
-<img src="https://img.shields.io/badge/Cybersecurity-Essentials-blue?style=for-the-badge&color=000000" alt="Cybersecurity Essentials" />
+[![Cisco Networking Academy: Introduction to Cybersecurity](https://img.shields.io/badge/Cisco_Networking_Academy-Introduction_to_Cybersecurity-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/fea9a2b9-e4cb-48a5-ba81-24fcc25db845/public_url)
 </div>
 
 ---
