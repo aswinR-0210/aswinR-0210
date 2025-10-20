@@ -63,7 +63,7 @@ With a foundation in **IoT and embedded systems**, I’m currently focused on le
 
 | **Project** | **Description** |
 |--------------|-----------------|
-| **[IoT-Based Waste Management System](https://github.com/)** | Smart waste segregation system using ESP32, Firebase, and sensors for monitoring and data logging. |
+| **[ToolBot](https://github.com/aswinR-0210/Toolbot/)** | Smart waste segregation system using ESP32, Firebase, and sensors for monitoring and data logging. |
 | **[Network Traffic Analyzer](https://github.com/)** | A simple Python + Wireshark-based project to monitor and analyze packet data. |
 | **[Security Labs Practice](https://github.com/)** | Personal cybersecurity practice setup using Metasploitable, Kali Linux, and TryHackMe. |
 
