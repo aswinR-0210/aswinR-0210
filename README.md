@@ -13,7 +13,7 @@ With a foundation in **IoT and embedded systems**, I’m currently focused on le
 
 - **Name:** Aswin R  
 - **From:** Kerala, India  
-- **Interests:** Cybersecurity | Networking | System Defense  
+- **Interests:** Cybersecurity | Networking | System Defense  | IoT
 - Background in **Mechatronics** and **IoT**, with practical experience using ESP32, Arduino, and Firebase.  
 - Currently exploring **ethical hacking**, **penetration testing**, and **network security tools**.  
 - Passionate about building secure systems and understanding how vulnerabilities arise in real-world environments.
