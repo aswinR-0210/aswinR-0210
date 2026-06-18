@@ -8,7 +8,7 @@ I enjoy building intelligent connected systems by combining hardware and softwar
 
 ## 🚀 About Me
 
-* 🎓 B.Tech in Computer Science and Engineering
+* 🎓 B.Tech in Computer Science and Engineering (CUSAT)
 * 🎓 Diploma in Mechatronics Engineering & Smart Factory (NTTF)
 * 🔧 Interested in Embedded Systems, IoT, Robotics, and Edge AI
 * 🌐 Familiar with Networking and Cybersecurity Fundamentals
