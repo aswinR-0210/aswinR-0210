@@ -50,7 +50,7 @@ Passionate about building intelligent systems that bridge hardware and software.
 | Project | Overview | Technologies |
 |----------|----------|-------------|
 | **[Smart Waste Bin Monitoring System]()** | IoT-based waste monitoring solution with cloud connectivity, GPS tracking, and real-time sensor monitoring. | ESP32, Firebase, GPS, Ultrasonic Sensor |
-| **[ToolBot – Autonomous Line Follower Robot]()** | Autonomous navigation robot featuring line following, obstacle detection, and wireless monitoring. | Arduino, ESP8266, Blynk, IR Sensors,DC Motors |
+| **[ToolBot – Autonomous Line Follower Robot](https://github.com/aswinR-0210/Toolbot)** | Autonomous navigation robot featuring line following, obstacle detection, and wireless monitoring. | Arduino, ESP8266, Blynk, IR Sensors,DC Motors |
 | **[AQPG – Automated Question Paper Generator]()** | AI-powered system that generates structured examination question papers from syllabus and textbook resources. | Python, FastAPI, Sentence-BERT, DistilBERT |
 
 
